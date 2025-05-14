@@ -1,57 +1,50 @@
-# Login Screen Project
+# Projeto Tela de Login
 
-This project demonstrates the implementation of a responsive login screen using mobile-first principles and modern UI/UX practices.
+Este projeto demonstra a implementação de uma tela de login responsiva usando princípios mobile-first e práticas modernas de UI/UX.
 
-## Project Overview
+## Visão Geral do Projeto
 
-A clean and minimalist login interface built with HTML and CSS, focusing on:
-- Mobile-first design approach
-- Responsive layout using flexbox
-- Accessible form elements
-- Modern dark theme aesthetics
+Uma interface de login limpa e minimalista construída com HTML e CSS, focando em:
+- Abordagem mobile-first
+- Layout responsivo usando flexbox
+- Elementos de formulário acessíveis
+- Estética moderna com tema escuro
 
-## Design Decisions
+## Decisões de Design
 
-### Mobile-First Approach
-- Container max-width set to 360px to ensure optimal mobile viewing
-- Flexible padding and margins that scale well on different screen sizes
-- Touch-friendly input fields and buttons with adequate spacing
+### Abordagem Mobile-First
+- Largura máxima do container definida em 360px para garantir visualização ideal em dispositivos móveis
+- Padding e margens flexíveis que se adaptam bem em diferentes tamanhos de tela
+- Campos de entrada e botões adaptados para toque com espaçamento adequado
 
-### UI/UX Considerations
-- Dark theme implementation for reduced eye strain
-- Clear visual hierarchy with contrasting elements
-- Intuitive form layout with descriptive placeholder text
-- Visual feedback on interactive elements (button hover states)
-- Clear call-to-action for both login and signup
+### Considerações de UI/UX
+- Implementação de tema escuro para reduzir o cansaço visual
+- Hierarquia visual clara com elementos contrastantes
+- Layout de formulário intuitivo com texto descritivo nos placeholders
+- Feedback visual em elementos interativos (estados hover dos botões)
+- Chamada para ação clara tanto para login quanto para cadastro
 
-### Accessibility Features
-- Semantic HTML structure
-- Required field validation
-- High contrast text for readability
-- Adequate text sizing and spacing
-- Clear focus states for form elements
+### Recursos de Acessibilidade
+- Estrutura HTML semântica
+- Validação de campos obrigatórios
+- Texto com alto contraste para melhor legibilidade
+- Dimensionamento e espaçamento adequado de texto
+- Estados de foco claros para elementos do formulário
 
-## Technologies Used
+## Tecnologias Utilizadas
 - HTML5
 - CSS3
-- Flexbox for layouts
-- CSS Custom Properties
+- Flexbox para layouts
+- Propriedades Customizadas CSS
 
-## Design to Code Implementation
-- Originally designed in Figma
-- Implemented using clean, semantic HTML
-- Styled using modern CSS practices
-- Focused on maintaining design fidelity while ensuring responsiveness
+## Implementação do Design ao Código
+- Originalmente projetado no Figma
+- Implementado usando HTML semântico e limpo
+- Estilizado usando práticas modernas de CSS
+- Foco em manter a fidelidade do design garantindo responsividade
 
-## Learning Outcomes
-- Practiced mobile-first design principles
-- Implemented auto-layout concepts from Figma to CSS
-- Created an accessible and user-friendly interface
-- Applied UI/UX best practices in a real project
-
-## Future Improvements
-- Add form validation feedback
-- Implement dark/light theme toggle
-- Add password recovery option
-- Enhance animation and transitions
-- Include social login options
+## Aprendizados
+- Prática dos princípios de design mobile-first
+- Implementação de conceitos de auto-layout do Figma para CSS
+- Criação de uma interface acessível e amigável ao usuário
+- Aplicação de boas práticas de UI/UX em um projeto real
